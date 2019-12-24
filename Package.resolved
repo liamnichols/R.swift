@@ -21,11 +21,11 @@
       },
       {
         "package": "XcodeEdit",
-        "repositoryURL": "https://github.com/tomlokhorst/XcodeEdit",
+        "repositoryURL": "https://github.com/liamnichols/XcodeEdit.git",
         "state": {
-          "branch": null,
-          "revision": "70e4f0e3ad5f5de5360ed865e7b7e32a7a042f83",
-          "version": "2.7.4"
+          "branch": "ln/build-rule",
+          "revision": "167fdaef401443bc92815e7546e6724a8ed41694",
+          "version": null
         }
       }
     ]
